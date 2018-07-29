@@ -1,5 +1,7 @@
 Body{
     background: indianred;
+    width: 470px;
+    margin: 0 auto;
 }
 h1 {
     font-family: "Book Antiqua";
